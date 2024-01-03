@@ -16,10 +16,15 @@ Setup and Installation
 
 • To install ROS packages for this assignment, it is recommended to create a new
 workspace.
+
 – cd
+
 – mkdir -p ~/final_ws/src
+
 – cd final_ws
+
 - place the package from this repository in the src folder
+
 – colcon build
 
 Launch the simualation mize by running the following command
