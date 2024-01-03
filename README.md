@@ -33,6 +33,6 @@ ros2 launch final_project final_project.launch.py
 run the script node using
 ros2 run lecture12 navigator_23
 
-![image](https://github.com/robosac333/Navigating-a-Turtlebot3-through-maze-checkpoints/assets/143353582/e666f217-3f82-4fe3-9e17-921adb4329c4)
+![image](https://github.com/robosac333/Navigating-a-Turtlebot3-through-maze-checkpoints/blob/main/assets/143353582/e666f217-3f82-4fe3-9e17-921adb4329c4.png)
 
 To solve any other issue with loading the simulation and script refer the Problem Statement
